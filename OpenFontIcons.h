@@ -2,8 +2,8 @@
 #pragma once
 
 // Private-Use icons U+E000–U+F8FF
-#define ICON_MIN_FA "\uE000"   // Icon start range
-#define ICON_MAX_FA "\uF8FF"   // Icon end range
+#define ICON_MIN_OF 0xE000   // Icon start range
+#define ICON_MAX_OF 0xF8FF   // Icon end range
 
 #define ICON_ACTIVITY "\uE000"   // activity
 #define ICON_AIRPLAY "\uE001"   // airplay
